@@ -17,6 +17,10 @@ const podcast = new Podcast({
         name: 'Gewoon Digital Man',
         email: 'mailen@gewoondigitalman.nl',
     },
+    itunesCategory: [
+        { text: 'Technology' },
+        { text: 'News', subcats: [{ text: 'Tech News' }] }
+    ],
 });
 
 getEpisodes().forEach(episode => {
@@ -29,6 +33,8 @@ getEpisodes().forEach(episode => {
         url: `https://www.youtube.com/watch?v=${episode.youtube}`,
         date: episode.date,
         itunesEpisode: episode.episodeNumber,
+        itunesTitle: `Gewoon Digital Man Ep.${episode.episode}`,
+        itunesAuthor: 'Gewoon Digital Man',
         customElements: [{
             'psc:chapters': [
                 {
