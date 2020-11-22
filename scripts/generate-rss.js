@@ -4,8 +4,9 @@ const { getText, getEpisodes, writeToDist } = require('./utils');
 const podcast = new Podcast({
     title: 'Gewoon Digital Man',
     description: getText('podcast-description'),
-    feedUrl: 'https://gewoondigitalman.nl/rss.xml',
-    siteUrl: 'https://gewoondigitalman.nl',
+    feedUrl: 'https://www.gewoondigitalman.nl/rss.xml',
+    siteUrl: 'https://www.gewoondigitalman.nl',
+    imageUrl: 'https://www.gewoondigitalman.nl/logo.png',
     author: 'Gewoon Digital Man',
     managingEditor: 'Bart Langelaan',
     webMaster: 'Bart Langelaan',
