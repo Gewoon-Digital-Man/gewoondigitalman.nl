@@ -7,7 +7,7 @@ In de Gewoon Digital Man Podcast komt alles aan bod wat te maken heeft met, je r
 Als je ons iets wilt laten weten, laat dan een reactie achter op YouTube of stuur een lief berichtje naar mailen@gewoondigitalman.nl :-)]]></description>
 		<link>https://gewoondigitalman.nl</link>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 22 Nov 2020 22:54:18 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 22 Nov 2020 23:01:00 GMT</lastBuildDate>
 		<atom:link href="https://gewoondigitalman.nl/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Gewoon Digital Man]]></author>
 		<copyright><![CDATA[Gewoon Digital Man]]></copyright>
@@ -33,6 +33,22 @@ Als je ons iets wilt laten weten, laat dan een reactie achter op YouTube of stuu
 			<dc:creator><![CDATA[Gewoon Digital Man]]></dc:creator>
 			<pubDate>Mon, 23 Nov 2020 00:00:00 GMT</pubDate>
 			<enclosure url="https://gewoon-digital-man.s3.eu-west-3.amazonaws.com/Gewoon+Digital+Man+Ep001.mp3" length="0" type="audio/mpeg"/>
+			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+				<psc:chapter start="0:00:00" title="Introductie"/>
+				<psc:chapter start="0:10:20" title="Jori&apos;s talk op DrupalJam"/>
+				<psc:chapter start="0:13:11" title="Release - React 17"/>
+				<psc:chapter start="0:16:16" title="Release - NPM 7"/>
+				<psc:chapter start="0:22:32" title="Release - Composer 2"/>
+				<psc:chapter start="0:24:21" title="NextConf"/>
+				<psc:chapter start="0:44:38" title="Apple Event"/>
+				<psc:chapter start="0:54:46" title="Presidentsverkiezingen en social media"/>
+				<psc:chapter start="1:11:07" title="Digitaal IFFR festival"/>
+				<psc:chapter start="1:13:04" title="Bart is alcoholist"/>
+				<psc:chapter start="1:14:38" title="Google Home voor verstandelijk beperkten"/>
+				<psc:chapter start="1:16:28" title="Ian gaat een beleggen-app maken"/>
+				<psc:chapter start="1:19:17" title="Sam is een design system aan het opzetten, en is bezig met een React Native app"/>
+				<psc:chapter start="1:22:28" title="Afronding"/>
+			</psc:chapters>
 			<itunes:summary>In deze eerste aflevering bespreken de gasten wie ze zijn, gaat het over de DrupalJam talk die Jori heeft gegeven en worden nieuwe releases besproken. Maar er wordt vooral besproken hoe slecht we zijn in het maken van een podcast.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:episode>1</itunes:episode>
