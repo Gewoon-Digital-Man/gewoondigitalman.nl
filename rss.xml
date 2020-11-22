@@ -5,10 +5,15 @@
 In de Gewoon Digital Man Podcast komt alles aan bod wat te maken heeft met, je raadt het al, digital. Aangezien de podcast gehost wordt door vijf internet-nerds, zal de nadruk ook liggen op de onderliggende techniek.
 
 Als je ons iets wilt laten weten, laat dan een reactie achter op YouTube of stuur een lief berichtje naar mailen@gewoondigitalman.nl :-)]]></description>
-		<link>https://gewoondigitalman.nl</link>
+		<link>https://www.gewoondigitalman.nl</link>
+		<image>
+			<url>https://www.gewoondigitalman.nl/logo.png</url>
+			<title>Gewoon Digital Man</title>
+			<link>https://www.gewoondigitalman.nl</link>
+		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 22 Nov 2020 23:01:00 GMT</lastBuildDate>
-		<atom:link href="https://gewoondigitalman.nl/rss.xml" rel="self" type="application/rss+xml"/>
+		<lastBuildDate>Sun, 22 Nov 2020 23:28:42 GMT</lastBuildDate>
+		<atom:link href="https://www.gewoondigitalman.nl/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Gewoon Digital Man]]></author>
 		<copyright><![CDATA[Gewoon Digital Man]]></copyright>
 		<language><![CDATA[Dutch]]></language>
@@ -25,6 +30,7 @@ Als je ons iets wilt laten weten, laat dan een reactie achter op YouTube of stuu
 			<itunes:email>mailen@gewoondigitalman.nl</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>No</itunes:explicit>
+		<itunes:image href="https://www.gewoondigitalman.nl/logo.png"/>
 		<item>
 			<title><![CDATA[Gewoon Digital Man Ep.001]]></title>
 			<description><![CDATA[In deze eerste aflevering bespreken de gasten wie ze zijn, gaat het over de DrupalJam talk die Jori heeft gegeven en worden nieuwe releases besproken. Maar er wordt vooral besproken hoe slecht we zijn in het maken van een podcast.]]></description>
