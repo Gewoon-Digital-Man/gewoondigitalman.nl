@@ -11,7 +11,7 @@ const podcast = new Podcast({
     managingEditor: 'Bart Langelaan',
     webMaster: 'Bart Langelaan',
     copyright: 'Gewoon Digital Man',
-    language: 'Dutch',
+    language: 'NL',
     itunesType: 'episodic',
     itunesOwner: {
         name: 'Gewoon Digital Man',
