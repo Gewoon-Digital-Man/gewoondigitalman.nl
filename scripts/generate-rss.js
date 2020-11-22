@@ -28,6 +28,23 @@ getEpisodes().forEach(episode => {
         url: `https://www.youtube.com/watch?v=${episode.youtube}`,
         date: episode.date,
         itunesEpisode: episode.episodeNumber,
+        customElements: [{
+            'psc:chapters': [
+                {
+                    _attr: {
+                        version: '1.2',
+                        'xmlns:psc': 'http://podlove.org/simple-chapters',
+                    }
+                },
+                ...Object.entries(episode.timestamps).map(([start, title]) => ({
+                    'psc:chapter': {
+                        _attr: {
+                            start, title
+                        }
+                    }
+                }))
+            ]
+        }]
     });
 });
 
