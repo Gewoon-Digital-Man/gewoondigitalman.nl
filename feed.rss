@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title><![CDATA[Gewoon Digital Man]]></title>
+		<description><![CDATA[Gewoon Digital Man is een podcast van vijf vrienden die dachten: "wij kunnen vast wel een podcast maken". In de praktijk is dat natuurlijk lastiger dan gedacht. Maar zonder schaamte posten zij de opnames op het interwebz.
+In de Gewoon Digital Man Podcast komt alles aan bod wat te maken heeft met, je raadt het al, digital. Aangezien de podcast gehost wordt door vijf internet-nerds, zal de nadruk ook liggen op de onderliggende techniek.
+
+Als je ons iets wilt laten weten, laat dan een reactie achter op YouTube of stuur een lief berichtje naar mailen@gewoondigitalman.nl :-)]]></description>
+		<link>https://gewoondigitalman.nl</link>
+		<generator>Podcast for Node</generator>
+		<lastBuildDate>Sun, 22 Nov 2020 22:35:52 GMT</lastBuildDate>
+		<atom:link href="https://gewoondigitalman.nl/rss.xml" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Gewoon Digital Man]]></author>
+		<copyright><![CDATA[Gewoon Digital Man]]></copyright>
+		<language><![CDATA[Dutch]]></language>
+		<managingEditor><![CDATA[Bart Langelaan]]></managingEditor>
+		<webMaster><![CDATA[Bart Langelaan]]></webMaster>
+		<itunes:author>Gewoon Digital Man</itunes:author>
+		<itunes:summary>Gewoon Digital Man is een podcast van vijf vrienden die dachten: &quot;wij kunnen vast wel een podcast maken&quot;. In de praktijk is dat natuurlijk lastiger dan gedacht. Maar zonder schaamte posten zij de opnames op het interwebz.
+In de Gewoon Digital Man Podcast komt alles aan bod wat te maken heeft met, je raadt het al, digital. Aangezien de podcast gehost wordt door vijf internet-nerds, zal de nadruk ook liggen op de onderliggende techniek.
+
+Als je ons iets wilt laten weten, laat dan een reactie achter op YouTube of stuur een lief berichtje naar mailen@gewoondigitalman.nl :-)</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Gewoon Digital Man</itunes:name>
+			<itunes:email>mailen@gewoondigitalman.nl</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<item>
+			<title><![CDATA[Gewoon Digital Man Ep.001]]></title>
+			<description><![CDATA[In deze eerste aflevering bespreken de gasten wie ze zijn, gaat het over de DrupalJam talk die Jori heeft gegeven en worden nieuwe releases besproken. Maar er wordt vooral besproken hoe slecht we zijn in het maken van een podcast.]]></description>
+			<link>https://www.youtube.com/watch?v=x7pNXrcyK2E</link>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=x7pNXrcyK2E</guid>
+			<dc:creator><![CDATA[Gewoon Digital Man]]></dc:creator>
+			<pubDate>Mon, 23 Nov 2020 00:00:00 GMT</pubDate>
+			<enclosure url="https://gewoon-digital-man.s3.eu-west-3.amazonaws.com/Gewoon+Digital+Man+Ep001.mp3" length="0" type="audio/mpeg"/>
+			<itunes:summary>In deze eerste aflevering bespreken de gasten wie ze zijn, gaat het over de DrupalJam talk die Jori heeft gegeven en worden nieuwe releases besproken. Maar er wordt vooral besproken hoe slecht we zijn in het maken van een podcast.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:episode>1</itunes:episode>
+		</item>
+	</channel>
+</rss>
