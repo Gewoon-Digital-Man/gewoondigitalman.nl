@@ -12,7 +12,7 @@ Als je ons iets wilt laten weten, laat dan een reactie achter op YouTube of stuu
 			<link>https://www.gewoondigitalman.nl</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 26 Nov 2020 15:24:40 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 18 Dec 2020 15:09:16 GMT</lastBuildDate>
 		<atom:link href="https://www.gewoondigitalman.nl/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Gewoon Digital Man]]></author>
 		<copyright><![CDATA[Gewoon Digital Man]]></copyright>
@@ -37,7 +37,24 @@ Als je ons iets wilt laten weten, laat dan een reactie achter op YouTube of stuu
 		<itunes:image href="https://www.gewoondigitalman.nl/logo.png"/>
 		<item>
 			<title><![CDATA[Gewoon Digital Man Ep.001]]></title>
-			<description><![CDATA[In deze eerste aflevering bespreken de gasten wie ze zijn, gaat het over de DrupalJam talk die Jori heeft gegeven en worden nieuwe releases besproken. Maar er wordt vooral besproken hoe slecht we zijn in het maken van een podcast.]]></description>
+			<description><![CDATA[In deze eerste aflevering bespreken de gasten wie ze zijn, gaat het over de DrupalJam talk die Jori heeft gegeven en worden nieuwe releases besproken. Maar er wordt vooral besproken hoe slecht we zijn in het maken van een podcast.
+
+
+Onderwerpen:
+► (0:00:00) Introductie
+► (0:10:20) Jori's talk op DrupalJam
+► (0:13:11) Release - React 17
+► (0:16:16) Release - NPM 7
+► (0:22:32) Release - Composer 2
+► (0:24:21) NextConf
+► (0:44:38) Apple Event
+► (0:54:46) Presidentsverkiezingen en social media
+► (1:11:07) Digitaal IFFR festival
+► (1:13:04) Bart is alcoholist
+► (1:14:38) Google Home voor verstandelijk beperkten
+► (1:16:28) Ian gaat een beleggen-app maken
+► (1:19:17) Sam is een design system aan het opzetten, en is bezig met een React Native app
+► (1:22:28) Afronding]]></description>
 			<link>https://www.youtube.com/watch?v=x7pNXrcyK2E</link>
 			<guid isPermaLink="true">https://www.youtube.com/watch?v=x7pNXrcyK2E</guid>
 			<dc:creator><![CDATA[Gewoon Digital Man]]></dc:creator>
@@ -60,7 +77,24 @@ Als je ons iets wilt laten weten, laat dan een reactie achter op YouTube of stuu
 				<psc:chapter start="1:22:28" title="Afronding"/>
 			</psc:chapters>
 			<itunes:author>Gewoon Digital Man</itunes:author>
-			<itunes:summary>In deze eerste aflevering bespreken de gasten wie ze zijn, gaat het over de DrupalJam talk die Jori heeft gegeven en worden nieuwe releases besproken. Maar er wordt vooral besproken hoe slecht we zijn in het maken van een podcast.</itunes:summary>
+			<itunes:summary>In deze eerste aflevering bespreken de gasten wie ze zijn, gaat het over de DrupalJam talk die Jori heeft gegeven en worden nieuwe releases besproken. Maar er wordt vooral besproken hoe slecht we zijn in het maken van een podcast.
+
+
+Onderwerpen:
+► (0:00:00) Introductie
+► (0:10:20) Jori&apos;s talk op DrupalJam
+► (0:13:11) Release - React 17
+► (0:16:16) Release - NPM 7
+► (0:22:32) Release - Composer 2
+► (0:24:21) NextConf
+► (0:44:38) Apple Event
+► (0:54:46) Presidentsverkiezingen en social media
+► (1:11:07) Digitaal IFFR festival
+► (1:13:04) Bart is alcoholist
+► (1:14:38) Google Home voor verstandelijk beperkten
+► (1:16:28) Ian gaat een beleggen-app maken
+► (1:19:17) Sam is een design system aan het opzetten, en is bezig met een React Native app
+► (1:22:28) Afronding</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:episode>1</itunes:episode>
 			<itunes:title>Gewoon Digital Man Ep.001</itunes:title>
