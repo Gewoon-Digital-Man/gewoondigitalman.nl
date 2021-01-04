@@ -12,7 +12,7 @@ Als je ons iets wilt laten weten, laat dan een reactie achter op YouTube of stuu
 			<link>https://www.gewoondigitalman.nl</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 18 Dec 2020 15:09:16 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 04 Jan 2021 03:01:10 GMT</lastBuildDate>
 		<atom:link href="https://www.gewoondigitalman.nl/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Gewoon Digital Man]]></author>
 		<copyright><![CDATA[Gewoon Digital Man]]></copyright>
@@ -98,6 +98,79 @@ Onderwerpen:
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:episode>1</itunes:episode>
 			<itunes:title>Gewoon Digital Man Ep.001</itunes:title>
+		</item>
+		<item>
+			<title><![CDATA[Gewoon Digital Man Ep.002]]></title>
+			<description><![CDATA[In deze chaotische tweede aflevering gaat het voornamelijk over social media en de nadelen die hier aan vastkleven.
+
+
+Onderwerpen:
+► (0:00:00) Introductie
+► (0:01:19) Reacties van kijkers
+► (0:03:48) Sam heeft een nieuwe werkgever
+► (0:04:44) Cyberpunk 2077
+► (0:11:49) Ian heeft een coronatest gedaan
+► (0:14:00) Youtube-DL terug na DMCA
+► (0:17:00) PHP 8.0 is gereleased
+► (0:20:18) Apollo Studio
+► (0:21:10) Docker for Apollo M1
+► (0:22:35) Verslaving aan social media
+► (0:23:29) Screen time
+► (0:26:02) Verslaving aan social media
+► (0:45:30) Fabeltjesfuik met coronavaccin
+► (0:56:50) Niels heeft een telefoonstandaard
+► (0:58:50) Wix, Squarespace & Webflow
+► (1:02:48) Yarn Berry PnP
+► (1:06:39) Afronding]]></description>
+			<link>https://www.youtube.com/watch?v=Cari67GYDys</link>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=Cari67GYDys</guid>
+			<dc:creator><![CDATA[Gewoon Digital Man]]></dc:creator>
+			<pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate>
+			<enclosure url="https://gewoon-digital-man.s3.eu-west-3.amazonaws.com/Gewoon+Digital+Man+Ep002.mp3" length="0" type="audio/mpeg"/>
+			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+				<psc:chapter start="0:00:00" title="Introductie"/>
+				<psc:chapter start="0:01:19" title="Reacties van kijkers"/>
+				<psc:chapter start="0:03:48" title="Sam heeft een nieuwe werkgever"/>
+				<psc:chapter start="0:04:44" title="Cyberpunk 2077"/>
+				<psc:chapter start="0:11:49" title="Ian heeft een coronatest gedaan"/>
+				<psc:chapter start="0:14:00" title="Youtube-DL terug na DMCA"/>
+				<psc:chapter start="0:17:00" title="PHP 8.0 is gereleased"/>
+				<psc:chapter start="0:20:18" title="Apollo Studio"/>
+				<psc:chapter start="0:21:10" title="Docker for Apollo M1"/>
+				<psc:chapter start="0:22:35" title="Verslaving aan social media"/>
+				<psc:chapter start="0:23:29" title="Screen time"/>
+				<psc:chapter start="0:26:02" title="Verslaving aan social media"/>
+				<psc:chapter start="0:45:30" title="Fabeltjesfuik met coronavaccin"/>
+				<psc:chapter start="0:56:50" title="Niels heeft een telefoonstandaard"/>
+				<psc:chapter start="0:58:50" title="Wix, Squarespace &amp; Webflow"/>
+				<psc:chapter start="1:02:48" title="Yarn Berry PnP"/>
+				<psc:chapter start="1:06:39" title="Afronding"/>
+			</psc:chapters>
+			<itunes:author>Gewoon Digital Man</itunes:author>
+			<itunes:summary>In deze chaotische tweede aflevering gaat het voornamelijk over social media en de nadelen die hier aan vastkleven.
+
+
+Onderwerpen:
+► (0:00:00) Introductie
+► (0:01:19) Reacties van kijkers
+► (0:03:48) Sam heeft een nieuwe werkgever
+► (0:04:44) Cyberpunk 2077
+► (0:11:49) Ian heeft een coronatest gedaan
+► (0:14:00) Youtube-DL terug na DMCA
+► (0:17:00) PHP 8.0 is gereleased
+► (0:20:18) Apollo Studio
+► (0:21:10) Docker for Apollo M1
+► (0:22:35) Verslaving aan social media
+► (0:23:29) Screen time
+► (0:26:02) Verslaving aan social media
+► (0:45:30) Fabeltjesfuik met coronavaccin
+► (0:56:50) Niels heeft een telefoonstandaard
+► (0:58:50) Wix, Squarespace &amp; Webflow
+► (1:02:48) Yarn Berry PnP
+► (1:06:39) Afronding</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:episode>2</itunes:episode>
+			<itunes:title>Gewoon Digital Man Ep.002</itunes:title>
 		</item>
 	</channel>
 </rss>
